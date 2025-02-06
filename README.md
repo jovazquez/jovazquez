@@ -4,10 +4,10 @@
 
 ## 🚀 Sobre mí
 
-- 🔭 Actualmente, no estoy trabajando en algun proyecyo
-- 🌱 Aprendiendo sobre **Python y Analis de Datos**.
-- 👯 Me encantaría colaborar en proyectos para empezar a saber más.
-- 💬 Soy Ing en Electronica y Telecomunicaciones empezando en el mundo de la programación.
+- 🔭 Actualmente, no estoy trabajando en algún proyecto
+- 🌱 Aprendiendo sobre **Python y Análisis de Datos**.
+- 👯 Me encantaría colaborar en proyectos para empezar a saber más de python y análisis de datos.
+- 💬 Soy Ing en Electrónica y Telecomunicaciones empezando en el mundo de la programación.
 - 📫 Cómo contactarme:
 - 😄 Pronombres: Él/Él
 
